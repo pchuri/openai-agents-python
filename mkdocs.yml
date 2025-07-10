@@ -84,6 +84,7 @@ plugins:
                     - ref/run.md
                     - ref/repl.md
                     - ref/tool.md
+                    - ref/tool_context.md
                     - ref/result.md
                     - ref/stream_events.md
                     - ref/handoffs.md
